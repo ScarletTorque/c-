@@ -1,0 +1,15 @@
+C:\Users\ROG Admin\Desktop\c#\assignments\human\bin\Debug\net6.0\human.exe
+C:\Users\ROG Admin\Desktop\c#\assignments\human\bin\Debug\net6.0\human.deps.json
+C:\Users\ROG Admin\Desktop\c#\assignments\human\bin\Debug\net6.0\human.runtimeconfig.json
+C:\Users\ROG Admin\Desktop\c#\assignments\human\bin\Debug\net6.0\human.dll
+C:\Users\ROG Admin\Desktop\c#\assignments\human\bin\Debug\net6.0\human.pdb
+C:\Users\ROG Admin\Desktop\c#\assignments\human\obj\Debug\net6.0\human.csproj.AssemblyReference.cache
+C:\Users\ROG Admin\Desktop\c#\assignments\human\obj\Debug\net6.0\human.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG Admin\Desktop\c#\assignments\human\obj\Debug\net6.0\human.AssemblyInfoInputs.cache
+C:\Users\ROG Admin\Desktop\c#\assignments\human\obj\Debug\net6.0\human.AssemblyInfo.cs
+C:\Users\ROG Admin\Desktop\c#\assignments\human\obj\Debug\net6.0\human.csproj.CoreCompileInputs.cache
+C:\Users\ROG Admin\Desktop\c#\assignments\human\obj\Debug\net6.0\human.dll
+C:\Users\ROG Admin\Desktop\c#\assignments\human\obj\Debug\net6.0\refint\human.dll
+C:\Users\ROG Admin\Desktop\c#\assignments\human\obj\Debug\net6.0\human.pdb
+C:\Users\ROG Admin\Desktop\c#\assignments\human\obj\Debug\net6.0\human.genruntimeconfig.cache
+C:\Users\ROG Admin\Desktop\c#\assignments\human\obj\Debug\net6.0\ref\human.dll
