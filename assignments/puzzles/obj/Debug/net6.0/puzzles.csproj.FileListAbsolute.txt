@@ -1,0 +1,15 @@
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\obj\Debug\net6.0\puzzles.csproj.AssemblyReference.cache
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\obj\Debug\net6.0\puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\obj\Debug\net6.0\puzzles.AssemblyInfoInputs.cache
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\obj\Debug\net6.0\puzzles.AssemblyInfo.cs
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\obj\Debug\net6.0\puzzles.csproj.CoreCompileInputs.cache
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\bin\Debug\net6.0\puzzles.exe
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\bin\Debug\net6.0\puzzles.deps.json
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\bin\Debug\net6.0\puzzles.runtimeconfig.json
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\bin\Debug\net6.0\puzzles.dll
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\bin\Debug\net6.0\puzzles.pdb
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\obj\Debug\net6.0\puzzles.dll
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\obj\Debug\net6.0\refint\puzzles.dll
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\obj\Debug\net6.0\puzzles.pdb
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\obj\Debug\net6.0\puzzles.genruntimeconfig.cache
+C:\Users\ROG Admin\Desktop\c#\assignments\puzzles\obj\Debug\net6.0\ref\puzzles.dll
