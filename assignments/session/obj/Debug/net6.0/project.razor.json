@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\dojoval\\dojoval.csproj",
+  "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\session\\session.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16295,46 +16295,41 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "dojoval",
+  "RootNamespace": "session",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\dojoval\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\dojoval\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\dojoval\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\dojoval\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\dojoval\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\dojoval\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\dojoval\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\session\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\dojoval\\Views\\Home\\Success.cshtml",
-      "TargetPath": "Views\\Home\\Success.cshtml",
+      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\session\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\session\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\session\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\session\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\session\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ROG Admin\\Desktop\\c#\\assignments\\session\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
